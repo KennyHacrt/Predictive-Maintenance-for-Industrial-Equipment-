@@ -18,3 +18,5 @@ Long-Term Parameters:
   
 Additional Details: 
 Simulate or deploy physical sensors, stream data to a cloud database, and apply machine learning techniques for anomaly detection. Short-term alerts can be generated if live readings exceed thresholds, while long-term analysis refines maintenance schedules.
+
+REMINDER!!!!!!!!!! BEFORE USING THE CODES, PlEASE CHANGE THE THINGSPEAK CHANNEL WIRTE API and READ API 
