@@ -1,4 +1,4 @@
-Project Overview: Design a system that uses sensor data to predict failures in industrial equipment, reducing downtime and maintenance costs.
+Project Overview: Design a system that uses sensor data to predict failures in industrial equipment, reducing downtime and maintenance costs. (USED AI SUPPORT)
 
 Data Collection & Analysis:
 
